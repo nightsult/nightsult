@@ -37,7 +37,6 @@ Olá! Me chamo "Yuri" mais conhecido como "Night" Sou um desenvolvedor, mais no 
 - Odontologia 
 - Diretor da SEEMO
 - Amante de mods
-- Aprendendo sobre mixins 
 
 ## ✨ Contato
 
@@ -85,7 +84,6 @@ Hello! My name is "Yuri," better known as "Night." I'm a developer, mostly in Mi
 - Dentistry
 - Director of SEEMO
 - Mod Lover
-- Learning about mixins
 
 ## ✨ Contact
 
