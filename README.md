@@ -19,7 +19,7 @@ Olá! Me chamo "Yuri" mais conhecido como "Night" Sou um desenvolvedor, mais no 
 ## 🛠 Habilidades & Stacks
 
 ### Frontend & Backend
-[![Frontend](https://skillicons.dev/icons?i=java,kotlin,nodejs,js,html,css,nextjs,jquery,php,aws)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=java,kotlin,nodejs,js,html,css,c,cpp,nextjs,jquery,php,aws)](https://skillicons.dev)
 
 ### Banco de Dados & ORM
 [![Banco de Dados & ORM](https://skillicons.dev/icons?i=mongodb,mysql,sqlite,redis,)](https://skillicons.dev)
@@ -66,7 +66,7 @@ Hello! My name is "Yuri," better known as "Night." I'm a developer, mostly in Mi
 ## 🛠 Skills and Stacks
 
 ### Frontend & Backend
-[![Frontend](https://skillicons.dev/icons?i=java,kotlin,nodejs,js,html,css,nextjs,jquery,php,aws)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=java,kotlin,nodejs,js,html,css,c,cpp,nextjs,jquery,php,aws)](https://skillicons.dev)
 
 ### Databases & ORM
 [![Banco de Dados & ORM](https://skillicons.dev/icons?i=mongodb,mysql,sqlite,redis,)](https://skillicons.dev)
