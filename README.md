@@ -14,7 +14,7 @@
 
 ## 💼 Sobre mim
 
-Olá! Me chamo "Yuri" mais conhecido como "Night" Sou um desenvolvedor, mais no ramo do minecraft e java, com vasto conhecimento em muitas áreas. Muito bom em resolver problemas. Sou ótimo em comunicação e muito bom em transformar ideias em realidades.
+Olá! Me chamo "Yuri" mais conhecido como "Night" Sou um desenvolvedor, mais no ramo do minecraft bedrock e java, com vasto conhecimento em muitas áreas. Muito bom em resolver problemas. Sou ótimo em comunicação e muito bom em transformar ideias em realidades.
 
 ## 🛠 Habilidades & Stacks
 
@@ -61,7 +61,7 @@ Olá! Me chamo "Yuri" mais conhecido como "Night" Sou um desenvolvedor, mais no 
 
 ## 💼 About Me
 
-Hello! My name is "Yuri," better known as "Night." I'm a developer, mostly in Minecraft and Java, with extensive knowledge in many areas. I'm very good at problem-solving, excellent at communicating, and very good at turning ideas into reality.
+Hello! My name is "Yuri," better known as "Night." I'm a developer, mostly in Minecraft bedrock and Java, with extensive knowledge in many areas. I'm very good at problem-solving, excellent at communicating, and very good at turning ideas into reality.
 
 ## 🛠 Skills and Stacks
 
